@@ -1,0 +1,13 @@
+ <widget id="A6971781637053"  version="0.0.1">
+  <name>appGuide</name>
+  <description> appGuideModule </description>
+  <author email="gpfcodejob@gmail.com" href="www.apathfinder.cn">apathfinder</author>
+  <content src="index.html" />
+  <access origin="*" />
+  <preference name="pageBounce" value="false"/>
+	<preference name="appBackground" value="rgba(0,0,0,0.0)"/>
+	<preference name="windowBackground" value="rgba(0,0,0,0.0)"/>
+	<preference name="frameBackgroundColor" value="rgba(0,0,0,0.0)"/>
+	<preference name="debug" value="true"/>
+	<permission name="location" />
+</widget>
